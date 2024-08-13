@@ -1,0 +1,11 @@
+{
+  "prettier.proseWrap": "preserve",
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "css.format.enable": false,
+  "css.format.maxPreserveNewLines": null,
+  "css.format.preserveNewLines": true,
+  "css.format.braceStyle": "collapse",
+  "css.format.newlineBetweenRules": false,
+  "css.format.newlineBetweenSelectors": false,
+  "css.format.spaceAroundSelectorSeparator": true
+}
